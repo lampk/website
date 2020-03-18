@@ -3,177 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/website/vn/tags/misc/</loc>
+    <loc>https://lampk.github.io/website/vn/tags/misc/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/tags/misc/"
+                href="https://lampk.github.io/website/tags/misc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/tags/misc/"
+                href="https://lampk.github.io/website/vn/tags/misc/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/posts/misc/</loc>
+    <loc>https://lampk.github.io/website/vn/posts/misc/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/posts/misc/"
+                href="https://lampk.github.io/website/posts/misc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/posts/misc/"
+                href="https://lampk.github.io/website/vn/posts/misc/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/</loc>
+    <loc>https://lampk.github.io/website/vn/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/"
+                href="https://lampk.github.io/website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/"
+                href="https://lampk.github.io/website/vn/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/posts/</loc>
+    <loc>https://lampk.github.io/website/vn/posts/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/posts/"
+                href="https://lampk.github.io/website/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/posts/"
+                href="https://lampk.github.io/website/vn/posts/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/tags/</loc>
+    <loc>https://lampk.github.io/website/vn/tags/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/tags/"
+                href="https://lampk.github.io/website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/tags/"
+                href="https://lampk.github.io/website/vn/tags/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/posts/featuresofcoderportfolio/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <loc>https://lampk.github.io/website/vn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/posts/featuresofcoderportfolio/"
+                href="https://lampk.github.io/website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/posts/featuresofcoderportfolio/"
+                href="https://lampk.github.io/website/vn/categories/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/posts/theme-demo/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <loc>https://lampk.github.io/website/vn/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/posts/theme-demo/"
+                href="https://lampk.github.io/website/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/posts/theme-demo/"
+                href="https://lampk.github.io/website/vn/contact/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/categories/</loc>
+    <loc>https://lampk.github.io/website/vn/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/categories/"
+                href="https://lampk.github.io/website/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/categories/"
+                href="https://lampk.github.io/website/vn/cv/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/contact/</loc>
+    <loc>https://lampk.github.io/website/vn/resources/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/contact/"
+                href="https://lampk.github.io/website/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/contact/"
+                href="https://lampk.github.io/website/vn/resources/"
                 />
   </url>
   
   <url>
-    <loc>/website/vn/cv/</loc>
+    <loc>https://lampk.github.io/website/vn/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/cv/"
+                href="https://lampk.github.io/website/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
-                href="/website/vn/cv/"
-                />
-  </url>
-  
-  <url>
-    <loc>/website/vn/resources/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/website/resources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vn"
-                href="/website/vn/resources/"
-                />
-  </url>
-  
-  <url>
-    <loc>/website/vn/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/website/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vn"
-                href="/website/vn/about/"
+                href="https://lampk.github.io/website/vn/about/"
                 />
   </url>
   

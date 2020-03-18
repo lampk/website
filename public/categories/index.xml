@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Phung Khanh Lam</title>
-    <link>/website/categories/</link>
+    <link>https://lampk.github.io/website/categories/</link>
     <description>Recent content in Categories on Phung Khanh Lam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/website/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lampk.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/website/categories/r/</link>
+      <link>https://lampk.github.io/website/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/website/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/website/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/website/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>/website/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/website/categories/golang/</guid>
+      <guid>https://lampk.github.io/website/categories/r/</guid>
       <description></description>
     </item>
     
