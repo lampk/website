@@ -1,5 +1,5 @@
 url = ""
-baseurl = ""
+baseurl = "https://lampk.github.io/"
 title = "Phung Khanh Lam"
 
 theme = "hugo-coder-portfolio"
